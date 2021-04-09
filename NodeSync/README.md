@@ -97,7 +97,7 @@ automerge transmitidos e lidos nas cadeias do freechains.
 Workflow do Aplicativo:
 -----------------------
 
-![workflow](nodesync.png)
+![workflow](NodeSync.png)
 
 
 
@@ -239,7 +239,7 @@ Obs: é preciso editar o script para colocar a shared key dos nós e ajustar os 
 *Exemplo de uso:*
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-./limpa.sh
+./restart.sh
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
