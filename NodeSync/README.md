@@ -231,7 +231,7 @@ Será feito todos os passos acima exceto os passos de sincronismo com o vizinho.
 Ferramentas de apoio aos testes:
 --------------------------------
 
-###restart.sh
+### restart.sh
 
 Script bash que apaga as cadeias $crdt dos 4 nós e reinicia elas.
 Obs: é preciso editar o script para colocar a shared key dos nós e ajustar os diretórios
@@ -246,7 +246,7 @@ Obs: é preciso editar o script para colocar a shared key dos nós e ajustar os 
 
 
 
-###limpa.sh
+### limpa.sh
 
 Script bash para limpeza automática dos arquivos com as extensões .json, .automerge, 
 .diff e .network
